@@ -1,0 +1,39 @@
+
+body {
+    color : #2d3c49;
+    font-family: 'Lato' , 'Sans Pro';
+    font-weight: 300;
+
+}
+
+.featured  img {
+    cursor: pointer;
+    width: 3213210px;
+    height : 240px;
+}
+
+hr {
+    border : 2px #7d97ad solid;
+}
+
+#mainPic {
+   margin: auto;
+   height: 470px;
+   width: 90%;
+}
+.text-thin {
+    font-weight: 100;
+}
+
+.text-huge {
+    font-size: 60px;
+}
+.text-muted {
+    color : #7d97ad;
+}
+
+.logo {
+    margin-top: 25px;
+    float:left;
+}
+
